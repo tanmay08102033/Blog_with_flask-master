@@ -3,8 +3,7 @@ The blog is created using flask as backend. I have used bootstrap for the fronte
 
 Also, I have deployed the app with the help of heroku platform. For serving the database purpose in heroku platform, I have used database SQL service Postgres SQL.
 
-### Blog link deployed using heroku
-https://techingenious.herokuapp.com/
+
 
 ### To Run app locally
 python blog.py
